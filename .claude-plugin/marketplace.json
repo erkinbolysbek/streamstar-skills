@@ -1,0 +1,13 @@
+{
+  "name": "streamstar-skills",
+  "owner": {
+    "name": "StreamStar"
+  },
+  "plugins": [
+    {
+      "name": "streamstar-skills",
+      "source": "./",
+      "description": "Бесплатные ИИ-помощники для стримеров и блогеров TikTok от агентства StreamStar."
+    }
+  ]
+}
