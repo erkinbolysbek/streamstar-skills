@@ -1,0 +1,18 @@
+{
+  "name": "streamstar-skills",
+  "version": "1.0.0",
+  "description": "Бесплатные ИИ-помощники для стримеров и блогеров TikTok от агентства StreamStar: разбор шапки, меню пожеланий, стикеры и подготовка к батлам, итоги эфира, TikFinity.",
+  "author": {
+    "name": "StreamStar"
+  },
+  "homepage": "https://github.com/erkinbolysbek/streamstar-skills",
+  "repository": "https://github.com/erkinbolysbek/streamstar-skills",
+  "license": "MIT",
+  "keywords": [
+    "tiktok",
+    "tiktok-live",
+    "streamer",
+    "skills",
+    "russian"
+  ]
+}
